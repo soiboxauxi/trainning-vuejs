@@ -7,3 +7,5 @@
 - Making the view data-driven
 - List rendering
 - Sorting
+- Event handing (Click upvote)
+- Component
