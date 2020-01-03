@@ -9,3 +9,8 @@
 - Sorting
 - Event handing (Click upvote)
 - Component
+
+2. CalendarApp
+
+- Create project
+- A static version of the app
