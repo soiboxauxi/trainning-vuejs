@@ -15,3 +15,4 @@
 - Create project
 - A static version of the app
 - Breaking the app into components
+- Hardcode initial states
