@@ -17,3 +17,6 @@
 - Breaking the app into components
 - Hardcode initial states
 - Create state mutaions
+ 
+3. Custom Event
+- Create project
